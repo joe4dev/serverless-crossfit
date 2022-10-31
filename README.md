@@ -1,4 +1,5 @@
-# Serverless CrossFit Replication Package
+Serverless CrossFit Replication Package [![DOI](https://zenodo.org/badge/559895374.svg)](https://zenodo.org/badge/latestdoi/559895374)
+=========
 
 This repository contains the [code](./thumbnail-generator/), [data](./data/), and [data analysis](./data-analysis/) script of the CrossFit cross-provider serverless benchmark.
 It also bundles a customized extension of the [serverless benchmarker](./serverless-benchmarker/) tool to automate and analyze serverless performance experiments.
