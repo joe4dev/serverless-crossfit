@@ -123,3 +123,9 @@ The application was proposed in the following study:
 ```none
 Vladimir Yussupov, Uwe Breitenbücher, Frank Leymann, and Christian Müller. Facing the unplanned migration of serverless applications: A study on portability problems, solutions, and dead ends. In Proceedings of the 12th IEEE/ACM International Conference on Utility and Cloud Computing, pages 273–283, 2019.
 ```
+
+## Contributors
+
+[Rui Deng](https://github.com/codigube) implemented the initial version of the Serverless CrossFit benchmark as part of his master thesis at Chalmers University of Technology in Sweden supervised by Joel: [Benchmarking of Serverless Application Performance across Cloud Providers: An In-depth Understanding of Reasons for Differences](https://odr.chalmers.se/handle/20.500.12380/304566).
+
+[Joel Scheuner](https://github.com/joe4dev) re-implemented the data analysis and visualization and provided the base implementation of the serverless-benchmarker in collaboration with the SPEC-RG Cloud research group.
